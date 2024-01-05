@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Adminluminar",
+      "email": "admin@gmail.com",
+      "active": 1,
+      "password": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Anu Kumar",
+      "email": "anu@gmail",
+      "active": "1"
+    },
+    {
+      "id": "45",
+      "name": "amritha",
+      "email": "amritha@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "43",
+      "name": "Ann",
+      "email": "anu@gmail",
+      "active": "1"
+    },
+    {
+      "id": "3",
+      "name": "sarin",
+      "email": "sarin@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "6",
+      "name": "bivin",
+      "email": "bivin@gmail.com",
+      "active": "0"
+    }
+  ]
+}
